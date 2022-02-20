@@ -1,5 +1,5 @@
 # Platform-Policy-Updater
-###Updates policies based off your OS plaform using a policy file
+## Updates policies based off your OS plaform using a policy file
 
-####Usage:
+#### Usage:
 `python3 main.py [policy file].json`
